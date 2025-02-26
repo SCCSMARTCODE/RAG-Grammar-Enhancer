@@ -21,6 +21,14 @@ def convert_csv_to_json(csv_file, json_file):
         print(f"An error occurred: {e}")
 
 
+def add_indent_to_json_file(path):
+    with open(path, 'r+') as f:
+        json_data = json.load(f)
+        f.seek(0)
+        json.dump(json_data, f, indent=4)
+        f.truncate()
+
 if __name__ == "__main__":
     convert_csv_to_json('csv_format/english_rules.csv', 'json_format/english_rules.json')
-    # convert_csv_to_json('csv_format/idioms_proverbs.csv', 'json_format/idioms_proverbs.json')
+    convert_csv_to_json('csv_format/idioms_proverbs.csv', 'json_format/idioms_proverbs.json')
+    add_indent_to_json_file("json_format/slang_expressions.json")
