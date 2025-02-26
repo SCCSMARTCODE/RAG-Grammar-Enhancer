@@ -1,0 +1,2458 @@
+[
+    {
+        "idioms": "A bad break",
+        "meaning": "1. A misfortune. 2. A serious bone fracture."
+    },
+    {
+        "idioms": "A bad hair day",
+        "meaning": "A day on which everything seems to go wrong."
+    },
+    {
+        "idioms": "A bad workman always blames his tools",
+        "meaning": "A proverb that suggests a poor workman tends to look for an excuse for his poor work."
+    },
+    {
+        "idioms": "A big ask",
+        "meaning": "A favour which is a lot to ask of someone."
+    },
+    {
+        "idioms": "A bigger bang for your buck",
+        "meaning": "Better value for your money."
+    },
+    {
+        "idioms": "A bird in the hand is worth two in the bush",
+        "meaning": "It\u00c3\u00a2\u00c2\u20ac\u00c2\u2122s better to have a lesser but certain advantage than the possibility of a greater one that may come to nothing."
+    },
+    {
+        "idioms": "A bite to eat",
+        "meaning": "A small meal, possibly taken quickly when time is short."
+    },
+    {
+        "idioms": "A blessing in disguise",
+        "meaning": "An apparent misfortune that works to the eventual benefit of the recipient."
+    },
+    {
+        "idioms": "A bull and cow",
+        "meaning": "Cockney rhyming slang for a row or argument."
+    },
+    {
+        "idioms": "A bunch of fives",
+        "meaning": "A fist, as used in a fight."
+    },
+    {
+        "idioms": "A chip on your shoulder",
+        "meaning": "A sense of inferiority characterized by a quickness to take offence."
+    },
+    {
+        "idioms": "A diamond in the rough",
+        "meaning": "A person or thing having good underlying qualities while appearing to be coarse and unpolished."
+    },
+    {
+        "idioms": "A dime a dozen",
+        "meaning": "So commonplace as to be of little consequence."
+    },
+    {
+        "idioms": "A doubting Thomas",
+        "meaning": "A sceptic who won\u00c3\u00a2\u00c2\u20ac\u00c2\u2122t accept a widely believed truth until seeing the evidence in person."
+    },
+    {
+        "idioms": "A drop in the bucket",
+        "meaning": "A very small part of a bigger whole."
+    },
+    {
+        "idioms": "A fate worse than death",
+        "meaning": "The reputed opinion of sexual intercourse by prim Victorian ladies."
+    },
+    {
+        "idioms": "A feather in one's cap",
+        "meaning": "A symbol of achievement."
+    },
+    {
+        "idioms": "A fish out of water",
+        "meaning": "Someone in an unfamiliar circumstance."
+    },
+    {
+        "idioms": "A flash in the pan",
+        "meaning": "Something that fails to deliver long-term benefit after an initial success."
+    },
+    {
+        "idioms": "A fly in the ointment",
+        "meaning": "A small flaw that spoils the whole."
+    },
+    {
+        "idioms": "A fly on the wall",
+        "meaning": "1. An unperceived observer - able to see and hear but not be seen or heard. 2 - A form of cinema in which events are recorded without direction."
+    },
+    {
+        "idioms": "A fool and his money are soon parted",
+        "meaning": "A foolish person is very likely to lose his money."
+    },
+    {
+        "idioms": "A fool's paradise",
+        "meaning": "A state of euphoria with no basis in reality."
+    },
+    {
+        "idioms": "A foot in the door",
+        "meaning": "An initial inroad that may lead to greater influence in future."
+    },
+    {
+        "idioms": "A golden key can open any door",
+        "meaning": "Money always has a telling influence."
+    },
+    {
+        "idioms": "A hot potato",
+        "meaning": "A current issue which many people are talking about and which is controversial."
+    },
+    {
+        "idioms": "A house divided against itself cannot stand",
+        "meaning": "Failure is certain if those on the same side argue amongst themselves."
+    },
+    {
+        "idioms": "A knight in shining armour",
+        "meaning": "A person who comes to the aid of another when other hopes have faded, like the knights in romantic stories."
+    },
+    {
+        "idioms": "A leopard can't change his spots",
+        "meaning": "You cannot change your innate self."
+    },
+    {
+        "idioms": "A little bird told me",
+        "meaning": "I was told by an undisclosed source."
+    },
+    {
+        "idioms": "A load of cobblers",
+        "meaning": "Nonsense."
+    },
+    {
+        "idioms": "A load of codswallop",
+        "meaning": "Nonsense."
+    },
+    {
+        "idioms": "A lot on your plate",
+        "meaning": "Having many responsibilities."
+    },
+    {
+        "idioms": "A man after my own heart",
+        "meaning": "A kindred spirit. Someone who thinks as I do."
+    },
+    {
+        "idioms": "A miss is as good as a mile",
+        "meaning": "Some endeavours either succeed or they don\u00c3\u00a2\u00c2\u20ac\u00c2\u2122t - to miss narrowly is still failure."
+    },
+    {
+        "idioms": "A penny for your thoughts",
+        "meaning": "A way of asking what someone is thinking."
+    },
+    {
+        "idioms": "A penny saved is a penny earned",
+        "meaning": "Anything you save has the same effect as adding to your income."
+    },
+    {
+        "idioms": "A picture paints a thousand words",
+        "meaning": "Pictures are far more descriptive than words."
+    },
+    {
+        "idioms": "A piece of cake",
+        "meaning": "A task that can be accomplished very easily."
+    },
+    {
+        "idioms": "A pig in a poke",
+        "meaning": "A commodity that is bought without first examining it."
+    },
+    {
+        "idioms": "A place in the sun",
+        "meaning": "An idealistic dream of a sunny hideaway."
+    },
+    {
+        "idioms": "A red rag to a bull",
+        "meaning": "A deliberate provocation."
+    },
+    {
+        "idioms": "A safe pair of hands",
+        "meaning": "A reliable person, who can be trusted not to fail in a a task."
+    },
+    {
+        "idioms": "A sea change",
+        "meaning": "A radical change."
+    },
+    {
+        "idioms": "A sight for sore eyes",
+        "meaning": "A welcome sight that you weren\u00c3\u00a2\u00c2\u20ac\u00c2\u2122t expecting."
+    },
+    {
+        "idioms": "A skeleton in the closet",
+        "meaning": "A secret and possibly ruinous source of shame."
+    },
+    {
+        "idioms": "A shot in the arm",
+        "meaning": "A boost or encouragement."
+    },
+    {
+        "idioms": "A slap on the wrist",
+        "meaning": "A mild rebuke, often given when a more severe punishment might be expected."
+    },
+    {
+        "idioms": "A sledgehammer to crack a nut",
+        "meaning": "The use of excessive resources to overcome a small problem."
+    },
+    {
+        "idioms": "A sorry sight",
+        "meaning": "1. Something sadly neglected. 2. A person or thing of untidy appearance."
+    },
+    {
+        "idioms": "A stitch in time saves nine",
+        "meaning": "A small effort made at the right time might save a calamity later on."
+    },
+    {
+        "idioms": "A stone's throw",
+        "meaning": "A short distance."
+    },
+    {
+        "idioms": "A taste of your own medicine",
+        "meaning": "Mistreatment you receive in retaliation to that you gave to others."
+    },
+    {
+        "idioms": "A thorn in my flesh",
+        "meaning": "A persistent and difficult to ignore annoyance."
+    },
+    {
+        "idioms": "A toss up",
+        "meaning": "1. The flip of a coin to decide on something. 2. A result, usually between two courses of action, which is uncertain and could go either way."
+    },
+    {
+        "idioms": "A wolf in sheep's clothing",
+        "meaning": "Someone who uses the pretence of kindliness to disguise their evil intent."
+    },
+    {
+        "idioms": "About face",
+        "meaning": "1. A military command to turn when on parade. 2. A change from one\u00c3\u00a2\u00c2\u20ac\u00c2\u2122s previous position."
+    },
+    {
+        "idioms": "About time",
+        "meaning": "1. Almost time. 2. High time."
+    },
+    {
+        "idioms": "Absence makes the heart grow fonder",
+        "meaning": "Our feelings for people and things grows when we are apart from them."
+    },
+    {
+        "idioms": "Abso-bloody-lutely",
+        "meaning": "A more emphatic version of \u00c3\u00a2\u00c2\u20ac\u00c2\u2122Absolutely\u00c3\u00a2\u00c2\u20ac\u00c2\u2122."
+    },
+    {
+        "idioms": "Ace in the hole",
+        "meaning": "A saved, hidden advantage that can supply a victory when revealed."
+    },
+    {
+        "idioms": "Achilles' heel",
+        "meaning": "A fatal weakness in an otherwise strong person or thing."
+    },
+    {
+        "idioms": "Across the board",
+        "meaning": "Applying everywhere and to all classes of thing."
+    },
+    {
+        "idioms": "Act your age",
+        "meaning": "Behave in a manner appropriate to your stage in life."
+    },
+    {
+        "idioms": "Actions speak louder than words",
+        "meaning": "Actions show one\u00c3\u00a2\u00c2\u20ac\u00c2\u2122s character more than what you say."
+    },
+    {
+        "idioms": "Adam's ale",
+        "meaning": "A reference to water - often used to emphasize the purity of water compared to other drinks."
+    },
+    {
+        "idioms": "Add fuel to the fire",
+        "meaning": "Make a bad situation even worse than it is."
+    },
+    {
+        "idioms": "Add insult to injury",
+        "meaning": "To further a loss. To make a bad situation worse."
+    },
+    {
+        "idioms": "Against the clock",
+        "meaning": "In a great hurry to complete something before a set deadline."
+    },
+    {
+        "idioms": "Ain't my first rodeo",
+        "meaning": "Said by someone who has experience of a situation."
+    },
+    {
+        "idioms": "Al fresco",
+        "meaning": "In the open air."
+    },
+    {
+        "idioms": "Al desko",
+        "meaning": "Eating one\u00c3\u00a2\u00c2\u20ac\u00c2\u2122s lunch while still working. (A Pun on \u00c3\u00a2\u00c2\u20ac\u00c2\u2122Al fresco\u00c3\u00a2\u00c2\u20ac\u00c2\u2122.)."
+    },
+    {
+        "idioms": "All at sea",
+        "meaning": "In a confused, disordered state."
+    },
+    {
+        "idioms": "All kidding aside",
+        "meaning": "Said when you want people to realise you are speaking seriously, when they might otherwise think you were joking."
+    },
+    {
+        "idioms": "All bark and no bite",
+        "meaning": "Having lots to say but not willing to engage in a fight."
+    },
+    {
+        "idioms": "All Greek to me",
+        "meaning": "Incomprehensible, as Greek is to someone who cannot speak it."
+    },
+    {
+        "idioms": "All in all",
+        "meaning": "On the whole - when everything is considered."
+    },
+    {
+        "idioms": "All in a day's work",
+        "meaning": "Typical; a normal set of circumstances."
+    },
+    {
+        "idioms": "All set",
+        "meaning": "Ready to go."
+    },
+    {
+        "idioms": "All the way",
+        "meaning": "Referring to something that is done fully, especially as a euphemism for full sexual activity."
+    },
+    {
+        "idioms": "All thumbs",
+        "meaning": "Clumsy or physically inept."
+    },
+    {
+        "idioms": "All to cock",
+        "meaning": "Ruined or shambolic."
+    },
+    {
+        "idioms": "All together now",
+        "meaning": "Invitation to join in communal singing."
+    },
+    {
+        "idioms": "Alley cat",
+        "meaning": "1. A cat that lives wild in a town. 2. Slang term for a prostitute."
+    },
+    {
+        "idioms": "Alpha Mom",
+        "meaning": "An ambitious mother who aims to excel at work while raising children."
+    },
+    {
+        "idioms": "Alphabet soup",
+        "meaning": "A jumble of words or letters, often referring to organisations known by their initials, like CIA or BBC."
+    },
+    {
+        "idioms": "Amber nectar",
+        "meaning": "A slang term for lager."
+    },
+    {
+        "idioms": "Amped up",
+        "meaning": "Excited and ready for action."
+    },
+    {
+        "idioms": "An act of God",
+        "meaning": "Some event that is considered to be outside human control. Commonly used in insurance policies to refer to events that the insured cannot be held responsible for."
+    },
+    {
+        "idioms": "An arm and a leg",
+        "meaning": "Very expensive. A large amount of money."
+    },
+    {
+        "idioms": "An axe to grind",
+        "meaning": "A dispute with someone."
+    },
+    {
+        "idioms": "An open and shut case",
+        "meaning": "A straightforward legal case in which the outcome is clear."
+    },
+    {
+        "idioms": "Ankle biter",
+        "meaning": "A slang term for small child."
+    },
+    {
+        "idioms": "Apples and pears",
+        "meaning": "Cockney rhyming slang for stairs."
+    },
+    {
+        "idioms": "As high as a kite",
+        "meaning": "1. Very high up in the sky. 2. High on drugs or excitement."
+    },
+    {
+        "idioms": "At the drop of a hat",
+        "meaning": "With no delay."
+    },
+    {
+        "idioms": "Away with the fairies",
+        "meaning": "Not facing reality; in a dream world."
+    },
+    {
+        "idioms": "Baby brain",
+        "meaning": "Confusion or forgetfulness caused by lack of sleep when caring for a new-born."
+    },
+    {
+        "idioms": "Baby bump",
+        "meaning": "The protruding belly of a pregnant woman. Also used to describe the unborn child itself."
+    },
+    {
+        "idioms": "Baby snatcher",
+        "meaning": "Someone who enters into an amorous relationship with a much younger person."
+    },
+    {
+        "idioms": "Back seat driver",
+        "meaning": "Someone who criticizes from the side-lines without being directly involved."
+    },
+    {
+        "idioms": "Back to square one",
+        "meaning": "Back to the beginning."
+    },
+    {
+        "idioms": "Back to the drawing board",
+        "meaning": "Said when a plan fails and it's time to start again and make a new plan."
+    },
+    {
+        "idioms": "Bag lady",
+        "meaning": "A homeless woman, who carries all her possessions in shopping bags."
+    },
+    {
+        "idioms": "Baker's dozen",
+        "meaning": "Thirteen."
+    },
+    {
+        "idioms": "Barking up the wrong tree",
+        "meaning": "Responding to something which isn't the important issue."
+    },
+    {
+        "idioms": "Barnet Fair",
+        "meaning": "Cockney rhyming slang for hair."
+    },
+    {
+        "idioms": "Basket case",
+        "meaning": "A person or thing that is no longer able to function effectively, either through disability or misfortune."
+    },
+    {
+        "idioms": "Bat from the pavilion end",
+        "meaning": "Slang term for a homosexuality."
+    },
+    {
+        "idioms": "Be a sport",
+        "meaning": "Be generous and/or sportsmanlike."
+    },
+    {
+        "idioms": "Be glad to see the back of",
+        "meaning": "Be happy when a person leaves or when an unpleasant situation is ended."
+    },
+    {
+        "idioms": "Beach bum",
+        "meaning": "Someone, usually a youngster, who spends all their time hanging out at the beach surfing and partying."
+    },
+    {
+        "idioms": "Bean counter",
+        "meaning": "A disparaging term for an accountant or anyone who compiles statistics."
+    },
+    {
+        "idioms": "Beat around the bush",
+        "meaning": "Avoiding the main topic."
+    },
+    {
+        "idioms": "Beauty contest / Beauty parade",
+        "meaning": "A political contest in which the result is influenced by personality and image more than by policy."
+    },
+    {
+        "idioms": "Bedroom tax",
+        "meaning": "slang term for UK's removal of Spare Room Subsidy."
+    },
+    {
+        "idioms": "Bells and whistles",
+        "meaning": "Attractive additional features or trimmings."
+    },
+    {
+        "idioms": "Bend over backwards",
+        "meaning": "Make extravagant efforts to avoid bias."
+    },
+    {
+        "idioms": "Between a rock and a hard place",
+        "meaning": "Between two unwelcome options."
+    },
+    {
+        "idioms": "Between the wars",
+        "meaning": "The period between WWI and WWII."
+    },
+    {
+        "idioms": "Beyond price",
+        "meaning": "To be so prized and valuable as to not be obtainable by money."
+    },
+    {
+        "idioms": "Big fish in a small pond",
+        "meaning": "An important person but only so within a small area of influence."
+    },
+    {
+        "idioms": "Binge watch",
+        "meaning": "Watch multiple episodes of a television programme in succession."
+    },
+    {
+        "idioms": "Bitch slap",
+        "meaning": "An open-handed slap in the face intended to be humiliating."
+    },
+    {
+        "idioms": "Bite off more than you can chew",
+        "meaning": "Take on a task that is more than one can manage."
+    },
+    {
+        "idioms": "Bite the dust",
+        "meaning": "Die, especially in a violent or sudden way."
+    },
+    {
+        "idioms": "Bite your tongue",
+        "meaning": "Avoid speaking."
+    },
+    {
+        "idioms": "Blood blister",
+        "meaning": "Cockney rhyming slang for sister."
+    },
+    {
+        "idioms": "Blood is thicker than water",
+        "meaning": "Family loyalties are stronger than those to other people."
+    },
+    {
+        "idioms": "Blow a raspberry",
+        "meaning": "Cockney rhyming slang for fart."
+    },
+    {
+        "idioms": "Blue plate special",
+        "meaning": "A set meal provided at a reduced price."
+    },
+    {
+        "idioms": "Boat race",
+        "meaning": "Cockney rhyming slang for face."
+    },
+    {
+        "idioms": "Bottle and glass",
+        "meaning": "Cockney rhyming slang for arse."
+    },
+    {
+        "idioms": "Bought the farm",
+        "meaning": "Died, especially in a violent way which may give rise to an insurance claim."
+    },
+    {
+        "idioms": "Brahms and Lizst",
+        "meaning": "Cockney rhyming slang for pissed."
+    },
+    {
+        "idioms": "Brass monkey weather",
+        "meaning": "Extremely cold weather. The full expression is 'Cold enough to freeze the balls off a brass monkey'."
+    },
+    {
+        "idioms": "Brass tacks",
+        "meaning": "Cockney rhyming slang for facts."
+    },
+    {
+        "idioms": "Break a leg",
+        "meaning": "A superstitious way to wish 'good luck' to an actor before a performance while avoiding saying 'good luck' out loud, which is considered unlucky."
+    },
+    {
+        "idioms": "Breast is best",
+        "meaning": "Slogan of breastfeeding campaign."
+    },
+    {
+        "idioms": "Bricks and mortar",
+        "meaning": "Cockney rhyming slang for daughter."
+    },
+    {
+        "idioms": "Brighton Pier",
+        "meaning": "Cockney rhyming slang for queer (i.e. homosexual)."
+    },
+    {
+        "idioms": "Bring your A game",
+        "meaning": "Perform to the best of your ability."
+    },
+    {
+        "idioms": "Brown bread",
+        "meaning": "Cockney rhyming slang for dead."
+    },
+    {
+        "idioms": "Brown out",
+        "meaning": "1. A partial failure of the electricity supply. 2. The exposing of one's buttocks in public."
+    },
+    {
+        "idioms": "Brum brum",
+        "meaning": "Child's play idiom expressing the sound of a vehicle."
+    },
+    {
+        "idioms": "Bucket list",
+        "meaning": "A list of things you plan to do before you 'kick the bucket' (die). Often a list of fanciful ideas rather than of concrete plans."
+    },
+    {
+        "idioms": "Burn the midnight oil",
+        "meaning": "To work late into the night."
+    },
+    {
+        "idioms": "Bust a move",
+        "meaning": "Dance in a stylish way."
+    },
+    {
+        "idioms": "Buy a lemon",
+        "meaning": "Waste money by purchasing a car that is frequently faulty."
+    },
+    {
+        "idioms": "Calendar year",
+        "meaning": "Twelve months beginning from the first of January."
+    },
+    {
+        "idioms": "Can't cut the mustard",
+        "meaning": "Unable to meet the demands put upon you."
+    },
+    {
+        "idioms": "Canteen culture",
+        "meaning": "Boorish behaviour by rank and file police or soldiers."
+    },
+    {
+        "idioms": "Carbon footprint",
+        "meaning": "A measure of the amount of carbon dioxide (CO2) emitted during an industrial or domestic process."
+    },
+    {
+        "idioms": "Carpe diem",
+        "meaning": "Latin expression meaning seize the day."
+    },
+    {
+        "idioms": "Cast iron stomach",
+        "meaning": "Said to be possessed by someone who is able to eat anything with no ill effects."
+    },
+    {
+        "idioms": "Cat got your tongue?",
+        "meaning": "A question addressed to someone who is inexplicably silent. The implication is that the person's tongue is missing."
+    },
+    {
+        "idioms": "Caught between two stools",
+        "meaning": "Finding it difficult to choose between two alternatives."
+    },
+    {
+        "idioms": "Caught by the short hairs (or short and curlies)",
+        "meaning": "Trapped by an opponent in a situation you can't escape."
+    },
+    {
+        "idioms": "Chaise Lounge",
+        "meaning": "The American spelling for the piece of furniture known elsewhere as a chaise longue."
+    },
+    {
+        "idioms": "Charley horse",
+        "meaning": "Stiffness or cramp in the arm or leg."
+    },
+    {
+        "idioms": "Chasing tail",
+        "meaning": "Of a man pursuing women."
+    },
+    {
+        "idioms": "Cheek by jowl",
+        "meaning": "Side by side; close together."
+    },
+    {
+        "idioms": "Chicken feed",
+        "meaning": "Something of little importance, especially a small sum of money."
+    },
+    {
+        "idioms": "Cherry ripe",
+        "meaning": "Cockney rhyming slang for pipe."
+    },
+    {
+        "idioms": "Chew someone out",
+        "meaning": "Verbally scold someone."
+    },
+    {
+        "idioms": "Children should be seen and not heard",
+        "meaning": "Old proverb suggesting that children should not impinge on the adult world."
+    },
+    {
+        "idioms": "China plate",
+        "meaning": "Cockney rhyming slang for mate."
+    },
+    {
+        "idioms": "Chow down",
+        "meaning": "Begin to eat."
+    },
+    {
+        "idioms": "City bike",
+        "meaning": "A bicycle designing especially for urban riding."
+    },
+    {
+        "idioms": "Click bait",
+        "meaning": "An eye catching word or image on a website."
+    },
+    {
+        "idioms": "Close but no cigar",
+        "meaning": "Very near to success but falling short."
+    },
+    {
+        "idioms": "Cloud cuckoo land",
+        "meaning": "An imaginary idealistic state where everything is perfect. It is usually used with reference to someone who has an overly optimistic and unrealistic belief."
+    },
+    {
+        "idioms": "Cock and bull story",
+        "meaning": "An unbelievable tale."
+    },
+    {
+        "idioms": "Code monkey",
+        "meaning": "Slang term for a computer programmer."
+    },
+    {
+        "idioms": "Cold enough to freeze the balls off a brass monkey",
+        "meaning": "Extremely cold weather. The full expression is 'Cold enough to freeze the balls off a brass monkey'."
+    },
+    {
+        "idioms": "Come hell or high water",
+        "meaning": "Despite any great difficult or obstacle."
+    },
+    {
+        "idioms": "Comfort women",
+        "meaning": "women forced into sexual slavery by the Japanese in WWII."
+    },
+    {
+        "idioms": "Company man",
+        "meaning": "A worker especially loyal to the employer he works for."
+    },
+    {
+        "idioms": "Cop an attitude",
+        "meaning": "Adopt an aggressive stance."
+    },
+    {
+        "idioms": "Corduroy road",
+        "meaning": "A road that is ridged and furrowed like the fabric."
+    },
+    {
+        "idioms": "Country house hotel",
+        "meaning": "An upmarket hotel located in a revamped rural mansion."
+    },
+    {
+        "idioms": "Crack someone up",
+        "meaning": "Make someone laugh."
+    },
+    {
+        "idioms": "Cream crackered",
+        "meaning": "Cockney rhyming slang for knackered. - note, when this term was coined, cream crackers were a popular snack in the UK."
+    },
+    {
+        "idioms": "Cross that bridge when you come to it",
+        "meaning": "Deal with a problem if and when it becomes necessary, not before."
+    },
+    {
+        "idioms": "Cross your fingers",
+        "meaning": "To hope that something happens."
+    },
+    {
+        "idioms": "Crunch time",
+        "meaning": "The period of time just before a project has to be completed."
+    },
+    {
+        "idioms": "Cry wolf",
+        "meaning": "Intentionally raise a false alarm."
+    },
+    {
+        "idioms": "Curiosity killed the cat",
+        "meaning": "Being inquisitive can lead you into a dangerous situation."
+    },
+    {
+        "idioms": "Currant bun",
+        "meaning": "Cockney rhyming slang for sun."
+    },
+    {
+        "idioms": "Cut corners",
+        "meaning": "Doing things in a slipshod way, to avoid expense or effort."
+    },
+    {
+        "idioms": "Cut to the chase",
+        "meaning": "Leave out all the unnecessary details and get straight to the point."
+    },
+    {
+        "idioms": "Daily grind",
+        "meaning": "The dull daily routine."
+    },
+    {
+        "idioms": "Daisy roots",
+        "meaning": "Cockney rhyming slang for boots."
+    },
+    {
+        "idioms": "Date rape",
+        "meaning": "The rape by a man of his partner on a date."
+    },
+    {
+        "idioms": "Day surgery",
+        "meaning": "Minor surgery that does not require the patient to stay in hospital overnight."
+    },
+    {
+        "idioms": "Daylight saving time",
+        "meaning": "The adjustment of clocks to provide longer evening daylight."
+    },
+    {
+        "idioms": "Dead ringer",
+        "meaning": "An exact duplicate."
+    },
+    {
+        "idioms": "Dead white European male",
+        "meaning": "Derogatory reference to someone who has an unjustified reputation."
+    },
+    {
+        "idioms": "Designated driver",
+        "meaning": "Someone who agrees not to drink alcohol at a social event in order to be sober enough to drive others home."
+    },
+    {
+        "idioms": "Dial down",
+        "meaning": "1. Adjust a device to reduce sound or temperature. 2. Reduce one's emotional reaction to something."
+    },
+    {
+        "idioms": "Dicky Dirt",
+        "meaning": "Cockney rhyming slang for shirt."
+    },
+    {
+        "idioms": "Discussing Uganda",
+        "meaning": "Euphemism for sex."
+    },
+    {
+        "idioms": "Dog and bone",
+        "meaning": "Cockney rhyming slang for telephone."
+    },
+    {
+        "idioms": "Dog days of summer",
+        "meaning": "The hottest days of the summer season."
+    },
+    {
+        "idioms": "Donkey's years",
+        "meaning": "1. Cockney rhyming slang for ears. 2. A very long time."
+    },
+    {
+        "idioms": "Don't bite the hand that feeds you",
+        "meaning": "Don't hurt someone that helps you."
+    },
+    {
+        "idioms": "Don't count your chickens before they hatch",
+        "meaning": "Don't count on receiving some benefit until you actually have it."
+    },
+    {
+        "idioms": "Don't cry over spilt milk",
+        "meaning": "Don't fret pointlessly about some mistake or loss when it can't be remedied."
+    },
+    {
+        "idioms": "Don't give up the day job",
+        "meaning": "Said to someone who is a poor performer at a task - suggesting that they wouldn't be able to succeed at it professionally."
+    },
+    {
+        "idioms": "Don't look a gift horse in the mouth",
+        "meaning": "When you receive a gift accept it with good grace and don't find fault with it."
+    },
+    {
+        "idioms": "Don't put all your eggs in one basket",
+        "meaning": "Don't risk all your property on a single venture."
+    },
+    {
+        "idioms": "Double denim",
+        "meaning": "Denim jeans worn with a denim shirt or jacket."
+    },
+    {
+        "idioms": "Double header",
+        "meaning": "A sports expression denoting two events held at the same time."
+    },
+    {
+        "idioms": "Down to the wire",
+        "meaning": "Not decided until the very last minute."
+    },
+    {
+        "idioms": "Dressed to the nines",
+        "meaning": "Very smartly dressed, in one's best clothes."
+    },
+    {
+        "idioms": "Drink like a fish",
+        "meaning": "Drink very heavily."
+    },
+    {
+        "idioms": "Drive someone up the wall",
+        "meaning": "Irritate or annoy very much."
+    },
+    {
+        "idioms": "Dropping like flies",
+        "meaning": "Many people either falling ill or dying."
+    },
+    {
+        "idioms": "Dry run",
+        "meaning": "A rehearsal."
+    },
+    {
+        "idioms": "Duvet day",
+        "meaning": "A work day which an employee is allowed to spend at home relaxing."
+    },
+    {
+        "idioms": "Ear popping",
+        "meaning": "Sound that is loud or that catches the attention."
+    },
+    {
+        "idioms": "Easy-peasy",
+        "meaning": "Something that is extremely easy. Often used by children. Sometimes used by adults to demote an achievement that was accomplished with little apparent effort."
+    },
+    {
+        "idioms": "Eighty six",
+        "meaning": "Referring to an item on a menu that is no longer available."
+    },
+    {
+        "idioms": "Elbow grease",
+        "meaning": "Energetic labour, especially in the polishing of household items."
+    },
+    {
+        "idioms": "Elephant's trunk",
+        "meaning": "Cockney rhyming slang for drunk."
+    },
+    {
+        "idioms": "Elvis has left the building",
+        "meaning": "The primary performer has left. There's no point waiting around."
+    },
+    {
+        "idioms": "Enhanced interrogation techniques",
+        "meaning": "Euphemism for torture."
+    },
+    {
+        "idioms": "Ethnic cleansing",
+        "meaning": "The singling out and killing of a specific ethnic group."
+    },
+    {
+        "idioms": "Every cloud has a silver lining",
+        "meaning": "An encouragement to be optimistic. Even bad events have a good side to them."
+    },
+    {
+        "idioms": "Everything but the kitchen sink",
+        "meaning": "Everything imaginable."
+    },
+    {
+        "idioms": "Evil twin",
+        "meaning": "An imaginary double, humorously referred to in order to explain the uncharacteristic bad behaviour of a normally moral person. Usually used light-heartedly. The expression formed as an allusion to plots in films involving actual evil twins."
+    },
+    {
+        "idioms": "Excuse my French",
+        "meaning": "Please forgive me for swearing."
+    },
+    {
+        "idioms": "Eyebrow raising",
+        "meaning": "Something that creates shock or surprise."
+    },
+    {
+        "idioms": "Face card",
+        "meaning": "The jack queen or king in a set of playing cards."
+    },
+    {
+        "idioms": "Face the music",
+        "meaning": "Accept he unwelcome consequences of one's own actions."
+    },
+    {
+        "idioms": "Factory farming",
+        "meaning": "Rearing livestock under industrial conditions."
+    },
+    {
+        "idioms": "Fairytale ending",
+        "meaning": "A happy simplistic ending to a story similar to those found in fairy tales."
+    },
+    {
+        "idioms": "Far cry from",
+        "meaning": "Very different from."
+    },
+    {
+        "idioms": "Feeding frenzy",
+        "meaning": "A frantic competition or exploitation - like a group shark attack."
+    },
+    {
+        "idioms": "Fell off the back of a lorry",
+        "meaning": "A coy reference to an item that has been stolen."
+    },
+    {
+        "idioms": "Field day",
+        "meaning": "A day noted for remarkable or exciting events."
+    },
+    {
+        "idioms": "Fiddlesticks",
+        "meaning": "An exclamation meaning 1. Nonsense; rubbish. 2. An indication of mild annoyance."
+    },
+    {
+        "idioms": "Find your feet",
+        "meaning": "To become conscious of and develop one's expertise."
+    },
+    {
+        "idioms": "Fire the imagination",
+        "meaning": "Inspire with enthusiasm."
+    },
+    {
+        "idioms": "First among equals",
+        "meaning": "The most senior person in a group of equal rank."
+    },
+    {
+        "idioms": "First footing",
+        "meaning": "Making a round of visits at New Year."
+    },
+    {
+        "idioms": "First World problem",
+        "meaning": "A relatively trivial problem only affecting the affluent."
+    },
+    {
+        "idioms": "First World",
+        "meaning": "The industrialised affluent and wealthy nations."
+    },
+    {
+        "idioms": "Fixed in your ways",
+        "meaning": "Unwilling to change from your habitual way of doing things."
+    },
+    {
+        "idioms": "Flea market",
+        "meaning": "A market used to buy and sell inexpensive goods. The kind of place that might sell carpets infested with fleas."
+    },
+    {
+        "idioms": "Flea pit",
+        "meaning": "A downmarket cinema - allegedly verminous."
+    },
+    {
+        "idioms": "Flesh and blood",
+        "meaning": "1 - One's family. 2 - the bodily stuff we are made of."
+    },
+    {
+        "idioms": "Flip the bird",
+        "meaning": "To aggressively raise your middle finger at someone as a sign of displeasure."
+    },
+    {
+        "idioms": "Flog a dead horse",
+        "meaning": "To attempt to make progress with something that has no future."
+    },
+    {
+        "idioms": "Flotsam and jetsam",
+        "meaning": "Assorted bits and pieces of rubbish; especially items that are found in the sea."
+    },
+    {
+        "idioms": "Foam at the mouth",
+        "meaning": "To show vehement rage."
+    },
+    {
+        "idioms": "Food fight",
+        "meaning": "Chaotic collective behaviour where items of food are thrown about wildly."
+    },
+    {
+        "idioms": "Fools' gold",
+        "meaning": "Something that appears valuable but really isn't, like iron pyrites - a worthless mineral that resembles gold."
+    },
+    {
+        "idioms": "Frock up",
+        "meaning": "Wear a smart or formal dress for a special occasion."
+    },
+    {
+        "idioms": "Frog and toad",
+        "meaning": "Cockney rhyming slang for road."
+    },
+    {
+        "idioms": "Fuddy-duddy",
+        "meaning": "An old-fashioned and foolish type of person."
+    },
+    {
+        "idioms": "Full monty",
+        "meaning": "Everything possible. The whole thing."
+    },
+    {
+        "idioms": "Full of bull",
+        "meaning": "Talking hot air."
+    },
+    {
+        "idioms": "Funny farm",
+        "meaning": "A mental hospital."
+    },
+    {
+        "idioms": "Gee gee",
+        "meaning": "Childish term for a horse."
+    },
+    {
+        "idioms": "Gender bender",
+        "meaning": "A person who adopts a deliberately androgynous appearance, by use of uni-sex make-up, hair-style and clothing. Probably influenced by 'bender' being an earlier slang term for homosexual."
+    },
+    {
+        "idioms": "George Raft",
+        "meaning": "Cockney rhyming slang for daft."
+    },
+    {
+        "idioms": "Get a gold star",
+        "meaning": "Earn a merit point for doing well."
+    },
+    {
+        "idioms": "Get down to brass tacks",
+        "meaning": "Concern yourself with the basic and important realities."
+    },
+    {
+        "idioms": "Get off on the wrong foot",
+        "meaning": "Make a bad start in a relationship or task."
+    },
+    {
+        "idioms": "Get on board",
+        "meaning": "Accept and participate with an idea or project."
+    },
+    {
+        "idioms": "Get out of hand",
+        "meaning": "Become chaotic and uncontrollable."
+    },
+    {
+        "idioms": "Get out of the wrong side of the bed",
+        "meaning": ""
+    },
+    {
+        "idioms": "Get over it",
+        "meaning": "Move beyond something that is bothering you."
+    },
+    {
+        "idioms": "Get your head around",
+        "meaning": "Understand something, especially something difficult to comprehend because it is complex or surprising."
+    },
+    {
+        "idioms": "Ginger Beer",
+        "meaning": "Cockney rhyming slang for queer."
+    },
+    {
+        "idioms": "Give him an inch and he'll take a mile",
+        "meaning": "allow someone a small concession and they will take advantage and try to take more."
+    },
+    {
+        "idioms": "Give the benefit of the doubt",
+        "meaning": "Decide to believe a statement which isn't proven."
+    },
+    {
+        "idioms": "Give the slip",
+        "meaning": "To get away from. To escape."
+    },
+    {
+        "idioms": "Glass ceiling",
+        "meaning": "An unacknowledged or unseen discriminatory barrier that prevents women and minorities from rising to positions of power."
+    },
+    {
+        "idioms": "Gnat's bollock",
+        "meaning": "A very small (imaginary) unit of measurement."
+    },
+    {
+        "idioms": "Go ape shit",
+        "meaning": "Become excessively agitated and excited."
+    },
+    {
+        "idioms": "Go belly (or tits) up",
+        "meaning": "Become badly and permanently inoperative."
+    },
+    {
+        "idioms": "Go for broke",
+        "meaning": "Put every resource into getting a particular result."
+    },
+    {
+        "idioms": "Go out on a limb",
+        "meaning": "Take a risk to support someone or something."
+    },
+    {
+        "idioms": "Go the extra mile",
+        "meaning": "Going beyond what is usually required. Make an extra effort."
+    },
+    {
+        "idioms": "Going to hell in a handbasket",
+        "meaning": "Deteriorating and headed for complete disaster."
+    },
+    {
+        "idioms": "Good Samaritan",
+        "meaning": "Someone who compassionately helps another who is in need."
+    },
+    {
+        "idioms": "Graveyard shift",
+        "meaning": "Working hours that extend overnight."
+    },
+    {
+        "idioms": "Greasy spoon",
+        "meaning": "A small cheap cafe selling fried food."
+    },
+    {
+        "idioms": "Great minds think alike",
+        "meaning": "Said ironically when two people have matching thoughts."
+    },
+    {
+        "idioms": "Great scot",
+        "meaning": "Exclamation of surprise."
+    },
+    {
+        "idioms": "Gregory Peck",
+        "meaning": "Cockney rhyming slang for neck."
+    },
+    {
+        "idioms": "Gut feeling",
+        "meaning": "A personal intuition, based on feeling rather than fact."
+    },
+    {
+        "idioms": "Had a good war",
+        "meaning": "To have been successful during a military campaign."
+    },
+    {
+        "idioms": "Hair of the dog",
+        "meaning": "An alcoholic drink, intended to cure a hangover. It is mistakenly believed that a small measure of the same drink that made a person drunk will sober them up and cure the drinks ill effects. The expression is also used in other contexts, whenever an additional dose of whatever caused a problem is thought to be an appropriate remedy."
+    },
+    {
+        "idioms": "Half inch",
+        "meaning": "Cockney rhyming slang for pinch."
+    },
+    {
+        "idioms": "Happy sad",
+        "meaning": "A bittersweet feeling combining both happiness and sadness."
+    },
+    {
+        "idioms": "Harry spankers",
+        "meaning": "Brand spanking new."
+    },
+    {
+        "idioms": "Has the cat got your tongue?",
+        "meaning": "A question addressed to someone who is inexplicably silent. The implication is that the person's tongue is missing."
+    },
+    {
+        "idioms": "Haste makes waste",
+        "meaning": "Doing things in a rush makes for a poor result."
+    },
+    {
+        "idioms": "Hat trick",
+        "meaning": "A threefold feat in sports or some other activity."
+    },
+    {
+        "idioms": "Have a blast",
+        "meaning": "Have an especially good time."
+    },
+    {
+        "idioms": "Have a Captain Cook",
+        "meaning": "Cockney rhyming slang for look."
+    },
+    {
+        "idioms": "He makes my flesh (or skin) crawl (or creep)",
+        "meaning": "Said of someone who the speaker has a deep dislike of."
+    },
+    {
+        "idioms": "Head over heels",
+        "meaning": "Very excited, especially when in love."
+    },
+    {
+        "idioms": "Hear it on the grapevine",
+        "meaning": "Hear rumors about something from an anonymous informal contact."
+    },
+    {
+        "idioms": "Heebie-jeebies",
+        "meaning": "A state of nervous anxiety or fear."
+    },
+    {
+        "idioms": "Hell bent",
+        "meaning": "Determined to achieve something at all costs."
+    },
+    {
+        "idioms": "Help yourself",
+        "meaning": "Invitation to take something freely."
+    },
+    {
+        "idioms": "Hidden in plain sight",
+        "meaning": "Something that defies apprehension by being too obvious."
+    },
+    {
+        "idioms": "High and mighty",
+        "meaning": "Proud and arrogant."
+    },
+    {
+        "idioms": "High on the hog",
+        "meaning": "Luxurious."
+    },
+    {
+        "idioms": "High season",
+        "meaning": "The most popular time to visit a resort or attraction - when prices are highest."
+    },
+    {
+        "idioms": "Hit the books",
+        "meaning": "To study, especially for a test or exam."
+    },
+    {
+        "idioms": "Hit the hay",
+        "meaning": ""
+    },
+    {
+        "idioms": "Hit the nail on the head",
+        "meaning": "Make the precise correct point."
+    },
+    {
+        "idioms": "Hit the sack",
+        "meaning": "Retire to bed."
+    },
+    {
+        "idioms": "Hobson's choice",
+        "meaning": "1. A choice forced upon someone. 2. Cockney rhyming slang for voice."
+    },
+    {
+        "idioms": "Hocus pocus",
+        "meaning": "A term used to denote magic or trickery."
+    },
+    {
+        "idioms": "Hold your horses",
+        "meaning": "Be patient."
+    },
+    {
+        "idioms": "Holy shit",
+        "meaning": "An expression of extreme surprise or disbelief."
+    },
+    {
+        "idioms": "I can't be doing with it",
+        "meaning": "I am unwilling to tolerate it."
+    },
+    {
+        "idioms": "I can't think straight",
+        "meaning": "I'm overwhelmed and stressed and it is affecting my ability to think."
+    },
+    {
+        "idioms": "I'm good to go",
+        "meaning": "I am ready to participate."
+    },
+    {
+        "idioms": "If it's not one thing, it's another",
+        "meaning": "Said after more than one thing goes wrong."
+    },
+    {
+        "idioms": "In cahoots with",
+        "meaning": "To be in a partnership with, often for unscrupulous purposes."
+    },
+    {
+        "idioms": "In a nutshell",
+        "meaning": "In a few words. Concisely stated."
+    },
+    {
+        "idioms": "In like Flynn",
+        "meaning": "To be easily successful, especially concerning sex or romance."
+    },
+    {
+        "idioms": "In limbo",
+        "meaning": "In an uncertain situation, over which you have no control (a reference to the state of being outside both heaven and hell)."
+    },
+    {
+        "idioms": "In the bag",
+        "meaning": "Something that is secured."
+    },
+    {
+        "idioms": "In the buff",
+        "meaning": "Naked."
+    },
+    {
+        "idioms": "In the heat of the moment",
+        "meaning": "In an overwhelming situation, causing you to act rashly."
+    },
+    {
+        "idioms": "In the same boat",
+        "meaning": "Jointly facing the same predicament."
+    },
+    {
+        "idioms": "In your face",
+        "meaning": "Aggressive confrontation."
+    },
+    {
+        "idioms": "Inside job",
+        "meaning": "A crime committed by or with the help of someone living or working in the place that it took place."
+    },
+    {
+        "idioms": "It never rains but it pours",
+        "meaning": "When troubles come they often come together."
+    },
+    {
+        "idioms": "It takes two to tango",
+        "meaning": "It takes two people to cause a problem between them."
+    },
+    {
+        "idioms": "It's a small world",
+        "meaning": "Said when people meet unexpectedly, away from their usual haunts."
+    },
+    {
+        "idioms": "It's all gone Pete Tong",
+        "meaning": "Cockney rhyming slang for gone wrong."
+    },
+    {
+        "idioms": "It's not rocket science",
+        "meaning": "Said of something that isn't complex or difficult to understand."
+    },
+    {
+        "idioms": "Ivy league",
+        "meaning": "The joint name given to Columbia, Brown, Cornell, Dartmouth, Yale, Pennsylvania, Princeton, and Harvard universities."
+    },
+    {
+        "idioms": "Jack Palancing",
+        "meaning": "Cockney rhyming slang for dancing."
+    },
+    {
+        "idioms": "Jam jar",
+        "meaning": "Cockney rhyming slang for car."
+    },
+    {
+        "idioms": "Jelly belly",
+        "meaning": "An overweight person."
+    },
+    {
+        "idioms": "Jimmy Riddle",
+        "meaning": "Cockney rhyming slang for piddle."
+    },
+    {
+        "idioms": "Joshing me",
+        "meaning": "Tricking me."
+    },
+    {
+        "idioms": "Jump on the bandwagon",
+        "meaning": "Join a popular trend."
+    },
+    {
+        "idioms": "Jump the shark",
+        "meaning": "Introduce a ridiculous or unbelievable plot device into a TV series in order to boost flagging ratings."
+    },
+    {
+        "idioms": "Just deserts",
+        "meaning": "The result which is deserved. A reward for what has been done - good or bad."
+    },
+    {
+        "idioms": "Keep an eye on",
+        "meaning": "Observe carefully to make sure something bad isn't done."
+    },
+    {
+        "idioms": "Keep at bay",
+        "meaning": "Keep something away."
+    },
+    {
+        "idioms": "Keep body and soul together",
+        "meaning": "Earn sufficient money in order to keep yourself alive."
+    },
+    {
+        "idioms": "Keep your chin up",
+        "meaning": "Remain positive in a tough situation."
+    },
+    {
+        "idioms": "Khyber pass",
+        "meaning": "Cockney rhyming slang for arse."
+    },
+    {
+        "idioms": "Kick the bucket",
+        "meaning": "Die."
+    },
+    {
+        "idioms": "Kill two birds with one stone",
+        "meaning": "Accomplish two things with a single action."
+    },
+    {
+        "idioms": "Knee jerk reaction",
+        "meaning": "A quick and automatic response."
+    },
+    {
+        "idioms": "Knee trembler",
+        "meaning": "Sexual intercourse between two people standing up."
+    },
+    {
+        "idioms": "Knock on wood",
+        "meaning": "Knuckle tapping on wood in order to avoid bad luck or to continue having good luck."
+    },
+    {
+        "idioms": "Know the ropes",
+        "meaning": "To understand how to do something."
+    },
+    {
+        "idioms": "Lame duck",
+        "meaning": "A person or thing that is no longer properly able to function. Also, more specifically, a person in authority, for example a president or prime minister, in their final period of office after a successor has already been elected."
+    },
+    {
+        "idioms": "Last but not least",
+        "meaning": "An introduction, intended to let the audience know that the last person mentioned is not the least important."
+    },
+    {
+        "idioms": "Last straw",
+        "meaning": "The last of a series of problems, which pushes one's endurance beyond its limits."
+    },
+    {
+        "idioms": "Lend me your ear",
+        "meaning": "Politely ask for someones full attention."
+    },
+    {
+        "idioms": "Let bygones be bygones",
+        "meaning": "Allow a disagreement or argument to be put in the past."
+    },
+    {
+        "idioms": "Let sleeping dogs lie",
+        "meaning": "Avoid restarting a conflict."
+    },
+    {
+        "idioms": "Let the cat out of the bag",
+        "meaning": "Share a secret that wasn't intended to be shared."
+    },
+    {
+        "idioms": "Let your hair down",
+        "meaning": "Behave in a free an uninhibited manner. Usually applied to women."
+    },
+    {
+        "idioms": "Let's rewind",
+        "meaning": "A suggestion that the thing under consideration has gone along unproductive lines and should be looked at again from the beginning."
+    },
+    {
+        "idioms": "Level playing field",
+        "meaning": "Fair competition where no side has an advantage."
+    },
+    {
+        "idioms": "Like a chicken with its head cut off",
+        "meaning": "In a frenzied manner."
+    },
+    {
+        "idioms": "Link rot",
+        "meaning": "The tendency of WWW addresses to become out of date and point to unavailable pages."
+    },
+    {
+        "idioms": "Link farm",
+        "meaning": "A website that exists primarily to display links to another website, with the intention of improving the search status of the second site."
+    },
+    {
+        "idioms": "Liquor someone up",
+        "meaning": "To supply or to drink alcoholic drink."
+    },
+    {
+        "idioms": "Little devil",
+        "meaning": "An exclamation of surprise and annoyance, directed at someone who has behaved badly or performed some kind of prank. Often applied to children."
+    },
+    {
+        "idioms": "Little fish in a big pond",
+        "meaning": "Someone considered unimportant compared to their more significant peers."
+    },
+    {
+        "idioms": "Loaf of bread",
+        "meaning": "Cockney rhyming slang for head."
+    },
+    {
+        "idioms": "Long in the tooth",
+        "meaning": "Old."
+    },
+    {
+        "idioms": "Loose cannon",
+        "meaning": "Someone who is unpredictable and can cause damage by being reckless."
+    },
+    {
+        "idioms": "Lord Fred",
+        "meaning": "Cockney rhyming slang for bed."
+    },
+    {
+        "idioms": "Lose your head",
+        "meaning": "Overcome by emotion and out of control."
+    },
+    {
+        "idioms": "Lose your touch",
+        "meaning": "Lose an ability that you used to possess."
+    },
+    {
+        "idioms": "Magic mushroom",
+        "meaning": "A type of mushroom with hallucinogenic properties - sometimes known as 'shrooms'."
+    },
+    {
+        "idioms": "Make a scene",
+        "meaning": "Cause a disturbance."
+    },
+    {
+        "idioms": "Make no bones about",
+        "meaning": "To state a fact so there are no doubts about it."
+    },
+    {
+        "idioms": "Man cave",
+        "meaning": "A shed or some other retreat that men decorate in the way they choose (with or without their male friends) and use to relax in traditional male pursuits."
+    },
+    {
+        "idioms": "Many happy returns",
+        "meaning": "A toast given to someone on their birthday."
+    },
+    {
+        "idioms": "Mate's rates",
+        "meaning": "A discount price offered to friends."
+    },
+    {
+        "idioms": "Mea culpa",
+        "meaning": "I'm to blame."
+    },
+    {
+        "idioms": "Mellow yellow",
+        "meaning": "Dried banana peel, used as an intoxicant."
+    },
+    {
+        "idioms": "Men in suits",
+        "meaning": "Conventionally minded and dressed men who hold positions of authority. Also called just 'suits'."
+    },
+    {
+        "idioms": "Method to my madness",
+        "meaning": "Odd actions that appear meaningless but are done for a good reason."
+    },
+    {
+        "idioms": "Mince pies",
+        "meaning": "Cockney rhyming slang for eyes."
+    },
+    {
+        "idioms": "Mind your language",
+        "meaning": "An admonition not to swear."
+    },
+    {
+        "idioms": "Miss the boat",
+        "meaning": "Missed the chance to take an opportunity."
+    },
+    {
+        "idioms": "Mrs. Mop",
+        "meaning": "traditional English name for a cleaning woman."
+    },
+    {
+        "idioms": "Mumbo jumbo",
+        "meaning": "Nonsense or meaningless speech."
+    },
+    {
+        "idioms": "Mum's the word",
+        "meaning": "Keep quiet. Say nothing."
+    },
+    {
+        "idioms": "Mutt and Jeff",
+        "meaning": "Cockney rhyming slang for deaf."
+    },
+    {
+        "idioms": "My old china",
+        "meaning": "Cockney rhyming slang for mate."
+    },
+    {
+        "idioms": "My old Dutch",
+        "meaning": "Cockney rhyming slang for duchess."
+    },
+    {
+        "idioms": "Nail it",
+        "meaning": "To perform something particularly well."
+    },
+    {
+        "idioms": "Nest egg",
+        "meaning": "Savings set aside for future use."
+    },
+    {
+        "idioms": "Never-never land",
+        "meaning": "A utopian dreamland."
+    },
+    {
+        "idioms": "New arrival",
+        "meaning": "Colloquial term for a new-born baby."
+    },
+    {
+        "idioms": "New kid on the block",
+        "meaning": "Someone new to the group or area."
+    },
+    {
+        "idioms": "New York minute",
+        "meaning": "A short space of time."
+    },
+    {
+        "idioms": "Nine to five",
+        "meaning": "A standard office day, between 9am and 5pm. Often used to denote the boring nature of the weekly working routine."
+    },
+    {
+        "idioms": "Nip slip",
+        "meaning": "The inadvertent exposure of a womans nipple."
+    },
+    {
+        "idioms": "Nitty-gritty",
+        "meaning": "The important aspects of a situation; the heart of the matter."
+    },
+    {
+        "idioms": "No dice",
+        "meaning": "A refusal to accept a proposition."
+    },
+    {
+        "idioms": "No room to swing a cat",
+        "meaning": "An awkward or confined space."
+    },
+    {
+        "idioms": "No rush",
+        "meaning": "Said to someone to indicate that you aren't in a hurry for them to complete their task."
+    },
+    {
+        "idioms": "No saint",
+        "meaning": "Someone who might claim to be of good behaviour but has in fact a sordid past."
+    },
+    {
+        "idioms": "No spring chicken",
+        "meaning": "Said of people who are no longer young but may behave as though they were."
+    },
+    {
+        "idioms": "Nose around",
+        "meaning": "Investigate in an off-hand manner."
+    },
+    {
+        "idioms": "North and south",
+        "meaning": "Cockney rhyming slang for mouth."
+    },
+    {
+        "idioms": "Not all there",
+        "meaning": "Not in possession of one's mental faculties."
+    },
+    {
+        "idioms": "Not playing with a full deck",
+        "meaning": "Someone who lacks intelligence."
+    },
+    {
+        "idioms": "Off one's rocker",
+        "meaning": "Crazy; out of one's mind."
+    },
+    {
+        "idioms": "Off the hook",
+        "meaning": "No longer having to deal with something."
+    },
+    {
+        "idioms": "Off the record",
+        "meaning": "Something said in confidence that the one speaking doesn't want repeated."
+    },
+    {
+        "idioms": "Old chestnut",
+        "meaning": "A story that has been told repeatedly and which has lost any originality."
+    },
+    {
+        "idioms": "On a hiding to nothing",
+        "meaning": "Faced with a hopeless situation, even after making one's best efforts."
+    },
+    {
+        "idioms": "On a wing and a prayer",
+        "meaning": "In a difficult situation and reliant on luck to get out of it."
+    },
+    {
+        "idioms": "On cloud nine",
+        "meaning": "Blissfully happy."
+    },
+    {
+        "idioms": "On the ball",
+        "meaning": "With a good understanding of a situation and a readiness to act."
+    },
+    {
+        "idioms": "On the fence",
+        "meaning": "Unwilling to give one's view about which side you support."
+    },
+    {
+        "idioms": "On the record",
+        "meaning": "Something said in confidence that the one speaking is happy to have repeated."
+    },
+    {
+        "idioms": "On the same page",
+        "meaning": "Several people agreeing."
+    },
+    {
+        "idioms": "On your Tod",
+        "meaning": "Cockney rhyming slang for alone."
+    },
+    {
+        "idioms": "Once in a blue moon",
+        "meaning": "A rare occurrence."
+    },
+    {
+        "idioms": "Open warfare",
+        "meaning": "Engaged in active fighting or dispute."
+    },
+    {
+        "idioms": "Out of sight",
+        "meaning": "Still used with its literal meaning of 'beyond the range of sight' but more commonly used in its hippie-era meaning of 'excellent; extraordinary'."
+    },
+    {
+        "idioms": "Out of the blue",
+        "meaning": "Suddenly and unexpectedly."
+    },
+    {
+        "idioms": "Out on the town",
+        "meaning": "Out enjoying oneself."
+    },
+    {
+        "idioms": "Over my dead body",
+        "meaning": "Said when you absolutely refuse to allow something to happen."
+    },
+    {
+        "idioms": "Over the top",
+        "meaning": "Excessive."
+    },
+    {
+        "idioms": "Paint the town red",
+        "meaning": "Go on a boisterous or exuberant spree"
+    },
+    {
+        "idioms": "Partner up",
+        "meaning": "Find a companion."
+    },
+    {
+        "idioms": "Pass the buck",
+        "meaning": "Avoid responsibility by giving it to someone else."
+    },
+    {
+        "idioms": "Pedal to the metal",
+        "meaning": "To go at full speed, when driving a vehicle."
+    },
+    {
+        "idioms": "Peachy keen",
+        "meaning": "Excellent; wonderful."
+    },
+    {
+        "idioms": "Peeping Tom",
+        "meaning": "Someone who covertly observes sexually active or naked people."
+    },
+    {
+        "idioms": "Peg out",
+        "meaning": "1. To die, especially to die of old age. 2. To complete a circuit of the board in the card game cribbage."
+    },
+    {
+        "idioms": "Pen and ink",
+        "meaning": "Cockney rhyming slang for stink."
+    },
+    {
+        "idioms": "Perfect pitch",
+        "meaning": "The ability to determine a musical note by ear."
+    },
+    {
+        "idioms": "Phone it in",
+        "meaning": "Perform an act in an uncommitted disinterested manner."
+    },
+    {
+        "idioms": "Photo bomb",
+        "meaning": "Spoil a photograph by unexpectedly appearing in the picture and taking the attention away from the intended subject - usually as a prank."
+    },
+    {
+        "idioms": "Pig out",
+        "meaning": "To overeat in a slovenly manner."
+    },
+    {
+        "idioms": "Pig's ear",
+        "meaning": "Cockney rhyming slang for beer."
+    },
+    {
+        "idioms": "Pigs might fly",
+        "meaning": "Said when referring to something that is highly unlikely."
+    },
+    {
+        "idioms": "Pipe down",
+        "meaning": "An instruction to shut-up or be quiet."
+    },
+    {
+        "idioms": "Plates of meat",
+        "meaning": "Cockney rhyming slang for feet."
+    },
+    {
+        "idioms": "Play Devil's advocate",
+        "meaning": "A person who takes a contrary position from the one being presented, either for the sake of argument or to test the validity of the opposing point of view."
+    },
+    {
+        "idioms": "Play the field",
+        "meaning": "Indulge in a series of sexual relationships."
+    },
+    {
+        "idioms": "Play safe",
+        "meaning": "Avoid risk."
+    },
+    {
+        "idioms": "Pommy bashing",
+        "meaning": "Australian slang term for physical or verbal attacks on the English."
+    },
+    {
+        "idioms": "Porky pies",
+        "meaning": "Cockney rhyming slang for lies."
+    },
+    {
+        "idioms": "Potatoes (or taters) in the mould",
+        "meaning": "Cockney rhyming slang for cold."
+    },
+    {
+        "idioms": "Potty mouth",
+        "meaning": "A foul mouthed person."
+    },
+    {
+        "idioms": "Practice makes perfect",
+        "meaning": "Diligent practice leads to expertise."
+    },
+    {
+        "idioms": "Prick up your ears",
+        "meaning": "Listen very carefully - like a dog or horse with erect ears."
+    },
+    {
+        "idioms": "Pull the plug",
+        "meaning": "Bring something to an end."
+    },
+    {
+        "idioms": "Pull the wool over someone's eyes",
+        "meaning": "Deceive someone."
+    },
+    {
+        "idioms": "Pull your horns in",
+        "meaning": "Become less ambitious; curb your enthusiasm."
+    },
+    {
+        "idioms": "Pulling your leg",
+        "meaning": "Tricking someone as a joke."
+    },
+    {
+        "idioms": "Put a sock in it",
+        "meaning": "An instruction to a noisy person or a group to be quiet."
+    },
+    {
+        "idioms": "Quality time",
+        "meaning": "Time spent with a child, spouse or friend in an uninterrupted and attentive way."
+    },
+    {
+        "idioms": "Queer street",
+        "meaning": "The imaginary location of people who have major problems in their life, especially debt. (Note: not a real place, nor connected to homosexuality)"
+    },
+    {
+        "idioms": "Queer the pitch",
+        "meaning": "Ruin a plan or undertaking."
+    },
+    {
+        "idioms": "Rabbit and pork",
+        "meaning": "Cockney rhyming slang for talk."
+    },
+    {
+        "idioms": "Rags to riches",
+        "meaning": "From poverty to wealth."
+    },
+    {
+        "idioms": "Raining cats and dogs",
+        "meaning": "Raining very heavily."
+    },
+    {
+        "idioms": "Red letter day",
+        "meaning": "A significant, important or happy day."
+    },
+    {
+        "idioms": "Red tape",
+        "meaning": "Bureaucracy, especially in public business."
+    },
+    {
+        "idioms": "Rest up",
+        "meaning": "Take a break from one's efforts."
+    },
+    {
+        "idioms": "Revenge porn",
+        "meaning": "The malicious posting of sexual images online to harm the reputation of an ex partner."
+    },
+    {
+        "idioms": "Riding shotgun",
+        "meaning": "Riding in the front passenger seat of a car."
+    },
+    {
+        "idioms": "Ring fencing",
+        "meaning": "Earmarking funds to guarantee a specific project can go ahead."
+    },
+    {
+        "idioms": "Rise and shine",
+        "meaning": "Instruction to get out of bed and get ready for work."
+    },
+    {
+        "idioms": "Rome was not built in one day",
+        "meaning": "Major and important projects take time."
+    },
+    {
+        "idioms": "Rosie Lea",
+        "meaning": "Cockney rhyming slang for tea."
+    },
+    {
+        "idioms": "Ruby Murray",
+        "meaning": "Cockney rhyming slang for curry."
+    },
+    {
+        "idioms": "Rule of thumb",
+        "meaning": "A rough estimate."
+    },
+    {
+        "idioms": "Run out of steam",
+        "meaning": "Completely out of energy."
+    },
+    {
+        "idioms": "Sad-ass",
+        "meaning": "A reference to an inept or undesirable person or thing."
+    },
+    {
+        "idioms": "Salad days",
+        "meaning": "The days of one's youthful inexperience and enthusiasm."
+    },
+    {
+        "idioms": "Saved by the bell",
+        "meaning": "Saved by a last minute intervention."
+    },
+    {
+        "idioms": "Scarper Flow",
+        "meaning": "Cockney rhyming slang for go."
+    },
+    {
+        "idioms": "Scot-free",
+        "meaning": "Without payment."
+    },
+    {
+        "idioms": "Scrape together",
+        "meaning": "To manage, with difficulty, enough of what is needed - especially money."
+    },
+    {
+        "idioms": "Scrub up",
+        "meaning": "Make an effort to present oneself well dressed and smartly turned out."
+    },
+    {
+        "idioms": "See eye to eye",
+        "meaning": "When two or more people agree."
+    },
+    {
+        "idioms": "Sexton Blake",
+        "meaning": "Cockney rhyming slang for fake."
+    },
+    {
+        "idioms": "Shoot down in flames",
+        "meaning": "Destroy an argument or theory."
+    },
+    {
+        "idioms": "Shoot straight",
+        "meaning": "To talk or deal honestly."
+    },
+    {
+        "idioms": "Shoot through",
+        "meaning": "To leave or abscond."
+    },
+    {
+        "idioms": "Shovel ready",
+        "meaning": "A building project in which all the preliminaries have been arranged."
+    },
+    {
+        "idioms": "Side boob",
+        "meaning": "The side of a female breast revealed by skimpy clothing."
+    },
+    {
+        "idioms": "Silver bullet",
+        "meaning": "A simple and seeming effortless solution to a difficult problem."
+    },
+    {
+        "idioms": "Silver fox",
+        "meaning": "A handsome grey-haired man."
+    },
+    {
+        "idioms": "Silver surfer",
+        "meaning": "An older person who uses the World Wide Web."
+    },
+    {
+        "idioms": "Silver threads amongst the gold",
+        "meaning": "Blonde hair that is turning grey."
+    },
+    {
+        "idioms": "Silver tongued",
+        "meaning": "Eloquent or persuasive manner of speech."
+    },
+    {
+        "idioms": "Sit tight",
+        "meaning": "Wait and take do nothing until the time is right for action."
+    },
+    {
+        "idioms": "Sixth sense",
+        "meaning": "An imaginary intuitive facility."
+    },
+    {
+        "idioms": "Skid row",
+        "meaning": "The rundown area of a city inhabited by the destitute."
+    },
+    {
+        "idioms": "Smell a rat",
+        "meaning": "To begin to suspect that things aren't as they should be."
+    },
+    {
+        "idioms": "Smell something fishy",
+        "meaning": "Detect that something isn't as it should be."
+    },
+    {
+        "idioms": "Sniff test",
+        "meaning": "Sniff an item of clothing (or food) to check if it might be suitable to wear (or eat)."
+    },
+    {
+        "idioms": "Son of a gun",
+        "meaning": "A rogue."
+    },
+    {
+        "idioms": "Sparrow fart",
+        "meaning": "Jokey term for the early morning."
+    },
+    {
+        "idioms": "Spitting image",
+        "meaning": "The exact likeness."
+    },
+    {
+        "idioms": "Spoiler alert",
+        "meaning": "Said, or printed, as a warning that the following will give away the ending or important plot development of a drama."
+    },
+    {
+        "idioms": "Steal someone's thunder",
+        "meaning": "Hurt someone who was close to us by betraying them secretly and breaking their trust."
+    },
+    {
+        "idioms": "Steal someone's thunder",
+        "meaning": "Take the credit for something someone else did."
+    },
+    {
+        "idioms": "Step up to the mark",
+        "meaning": "Mark yourself ready to take responsibility."
+    },
+    {
+        "idioms": "Stitch up",
+        "meaning": "1. Put someone in difficulty, often by making it appear that they are to blame for a misdemeanour. 2. Repair with needle and thread."
+    },
+    {
+        "idioms": "Straight from the horse's mouth",
+        "meaning": "Heard from the authoritative source."
+    },
+    {
+        "idioms": "Stranger things have happened",
+        "meaning": "Said when the feasibility of some unlikely event is questioned."
+    },
+    {
+        "idioms": "Suck it up",
+        "meaning": "Accept a bad situation."
+    },
+    {
+        "idioms": "Swing by",
+        "meaning": "Drop in for a visit."
+    },
+    {
+        "idioms": "Swipe right",
+        "meaning": "(On the dating app Tinder) to indicate that you find someone unattractive by dragging one's finger to the right, across their screen image."
+    },
+    {
+        "idioms": "Syrup of figs",
+        "meaning": "Cockney rhyming slang for wig."
+    },
+    {
+        "idioms": "Take a butchers",
+        "meaning": "Cockney rhyming slang for look."
+    },
+    {
+        "idioms": "Take a raincheck",
+        "meaning": "An offer that is declined now but may be reconsidered later."
+    },
+    {
+        "idioms": "Take with a grain of salt",
+        "meaning": "Don't take what someone says too seriously - the the implication that it isn't true."
+    },
+    {
+        "idioms": "Talk of the devil!",
+        "meaning": "Said when someone that you have just been talking about arrives."
+    },
+    {
+        "idioms": "Tea leaf",
+        "meaning": "Cockney rhyming slang for thief."
+    },
+    {
+        "idioms": "That Friday feeling",
+        "meaning": "Anticipation of the weekend after a hard working week."
+    },
+    {
+        "idioms": "That sucks",
+        "meaning": "1. An expression of sympathy. 2. Said of something that the speaker rates very lowly."
+    },
+    {
+        "idioms": "The acid test",
+        "meaning": "1. A scientific test to distinguish between gold and base metals. 2. A conclusive test to determine the validity of a claim."
+    },
+    {
+        "idioms": "The apple of my eye",
+        "meaning": "Someone who is cherished above all others."
+    },
+    {
+        "idioms": "The author of your own misfortune",
+        "meaning": "Be to blame for one's own problems."
+    },
+    {
+        "idioms": "The ball is in your court",
+        "meaning": "It is your turn to make a decision."
+    },
+    {
+        "idioms": "The best of both worlds",
+        "meaning": "The benefits available from two apparently conflicting options."
+    },
+    {
+        "idioms": "The best thing since sliced bread",
+        "meaning": "An outstandingly good idea or plan."
+    },
+    {
+        "idioms": "The Big Pond",
+        "meaning": "Nickname of the Atlantic Ocean between the UK and the USA."
+    },
+    {
+        "idioms": "The bull in the bowler hat",
+        "meaning": "Jokey term for artificial insemination."
+    },
+    {
+        "idioms": "The empty chair",
+        "meaning": "The perceived absense of someone who is recently deceased."
+    },
+    {
+        "idioms": "The fog of war",
+        "meaning": "Confusion caused by the chaos of battle."
+    },
+    {
+        "idioms": "The glorious twelfth",
+        "meaning": "The 12th of August - the start of the British grouse shooting season."
+    },
+    {
+        "idioms": "The hair of the dog",
+        "meaning": "An alcoholic drink, intended to cure a hangover. It is mistakenly believed that a small measure of the same drink that made a person drunk will sober them up and cure the drinks ill effects. The expression is also used in other contexts, whenever an additional dose of whatever caused a problem is thought to be an appropriate remedy."
+    },
+    {
+        "idioms": "Heebie-jeebies",
+        "meaning": "A state of nervous anxiety or fear."
+    },
+    {
+        "idioms": "The God Squad",
+        "meaning": "enthusiastic Christian believers."
+    },
+    {
+        "idioms": "The icing on the cake",
+        "meaning": "Something that makes a good situation even better."
+    },
+    {
+        "idioms": "The last straw",
+        "meaning": "The last of a series of problems, which pushes one's endurance beyond its limits."
+    },
+    {
+        "idioms": "Nitty-gritty",
+        "meaning": "The important aspects of a situation; the heart of the matter."
+    },
+    {
+        "idioms": "The sound of leather on willow",
+        "meaning": "The sound of the ball on the bat in cricket."
+    },
+    {
+        "idioms": "The tail is wagging the dog",
+        "meaning": "A small and usually insignificant factor (or person) dominates over one that is normally more powerful and influential."
+    },
+    {
+        "idioms": "The town bike",
+        "meaning": "Promiscuous woman."
+    },
+    {
+        "idioms": "The whole nine yards",
+        "meaning": "The full entirety of something."
+    },
+    {
+        "idioms": "The wheels have come off",
+        "meaning": "Said when a previously promising enterprise goes irretrievably wrong."
+    },
+    {
+        "idioms": "Third time lucky",
+        "meaning": "Said when trying something for the third time."
+    },
+    {
+        "idioms": "Third time's a charm",
+        "meaning": "The third try is often successful."
+    },
+    {
+        "idioms": "Throw the towel in",
+        "meaning": "Give up, especially to avoid further punishment when facing certain defeat."
+    },
+    {
+        "idioms": "Tie the knot",
+        "meaning": "Get married."
+    },
+    {
+        "idioms": "Til the cows come home",
+        "meaning": "A long time to wait."
+    },
+    {
+        "idioms": "Titfer tat",
+        "meaning": "Cockney rhyming slang for hat."
+    },
+    {
+        "idioms": "To cut a long story short",
+        "meaning": "Said when a storyteller doesn't want to bore his audience with a long involved account."
+    },
+    {
+        "idioms": "Tongue in cheek",
+        "meaning": "Humorously, not to be taken seriously."
+    },
+    {
+        "idioms": "Top banana",
+        "meaning": "The leading, most important, person in a group or organisation."
+    },
+    {
+        "idioms": "Tour de force",
+        "meaning": "A feat of strength power or skill."
+    },
+    {
+        "idioms": "Toy-boy",
+        "meaning": "A woman's much younger male lover."
+    },
+    {
+        "idioms": "Trouble and strife",
+        "meaning": "Cockney rhyming slang for wife."
+    },
+    {
+        "idioms": "Turn a blind eye",
+        "meaning": "Refuse to acknowledge something that you know is genuine."
+    },
+    {
+        "idioms": "Twist someone's arm",
+        "meaning": "Persuade someone to do something they don't really want to do."
+    },
+    {
+        "idioms": "Twenty three skidoo",
+        "meaning": "Invitation to go away."
+    },
+    {
+        "idioms": "Two and eight",
+        "meaning": "Cockney rhyming slang for state."
+    },
+    {
+        "idioms": "Uncle Dick",
+        "meaning": "Cockney rhyming slang for sick."
+    },
+    {
+        "idioms": "Uncle Tom",
+        "meaning": "A derogatory term for a black man who is servile towards white men."
+    },
+    {
+        "idioms": "Under the weather",
+        "meaning": "Feeling ill."
+    },
+    {
+        "idioms": "Unlucky in love",
+        "meaning": "Having been unable to find a long-term romantic partner."
+    },
+    {
+        "idioms": "Up a blind alley",
+        "meaning": "On a fruitless course of action."
+    },
+    {
+        "idioms": "Up shit creek without a paddle",
+        "meaning": "In serious difficulty, with no hope of respite."
+    },
+    {
+        "idioms": "Ups a daisy",
+        "meaning": "A saying, usually to a child, after a stumble or fall, to encourage them to get up. (ups is a variant of whoops)."
+    },
+    {
+        "idioms": "Us versus them",
+        "meaning": "Denoting the enmity between two opposing groups."
+    },
+    {
+        "idioms": "Use your loaf",
+        "meaning": "Think smart."
+    },
+    {
+        "idioms": "Van Gogh's ear for music",
+        "meaning": "Tone deaf."
+    },
+    {
+        "idioms": "Variety is the spice of life",
+        "meaning": "Increased experience makes for a more exciting life."
+    },
+    {
+        "idioms": "Vatican roulette",
+        "meaning": "The rhythm method of birth control."
+    },
+    {
+        "idioms": "Wardrobe malfunction",
+        "meaning": "Referring to an item of clothing slipping out of place to expose part of the body."
+    },
+    {
+        "idioms": "Washed up",
+        "meaning": "1. Deposited on a beach by the tide. 2. Finished and failed, with no further chance of success."
+    },
+    {
+        "idioms": "Water under the bridge",
+        "meaning": "A past experience that you prefer not to affect your current life."
+    },
+    {
+        "idioms": "Wear your heart on your sleeve",
+        "meaning": "Openly express your emotions."
+    },
+    {
+        "idioms": "Well hung",
+        "meaning": "Said of a man with large genitals."
+    },
+    {
+        "idioms": "Wet behind the ears",
+        "meaning": "Young and naive, like a new-born baby."
+    },
+    {
+        "idioms": "Where there's muck there's brass",
+        "meaning": "Dirt and muddle are evidence of products being manufactured and money (brass) being made."
+    },
+    {
+        "idioms": "Whipper snapper",
+        "meaning": "A child or impertinent youth."
+    },
+    {
+        "idioms": "Whistle and flute",
+        "meaning": "Cockney rhyming slang for suit."
+    },
+    {
+        "idioms": "White elephant",
+        "meaning": "An object that appears magnificent but which is a burdensome financial liability."
+    },
+    {
+        "idioms": "Wild and woolly",
+        "meaning": "Uncultured and lawless."
+    },
+    {
+        "idioms": "Wind someone up",
+        "meaning": "Deliberately draw attention to something with the intention of causing trouble."
+    },
+    {
+        "idioms": "Wine and dine",
+        "meaning": "Entertain in a high class restaurant."
+    },
+    {
+        "idioms": "Winter drawers on",
+        "meaning": "British euphemistic joke."
+    },
+    {
+        "idioms": "Work out",
+        "meaning": "1. Calculate using arithmetic. 2. Take exercise (also spelled 'workout')."
+    },
+    {
+        "idioms": "Word for word",
+        "meaning": "An exact, precisely corresponding to, copy of another's words."
+    },
+    {
+        "idioms": "Worse for wear",
+        "meaning": "Either 1. Shabby and worn out, or 2. Drunk."
+    },
+    {
+        "idioms": "Would you Adam and Eve it?",
+        "meaning": "Cockney rhyming slang for would you believe it?"
+    },
+    {
+        "idioms": "Wouldn't be caught dead",
+        "meaning": "Referring to something you absolutely refuse to do."
+    },
+    {
+        "idioms": "X marks the spot",
+        "meaning": "Said of a location that indicates something significant - like a pirate's mark on a treasure map."
+    },
+    {
+        "idioms": "Yarn bombing",
+        "meaning": "The adorning of public buildings with knitted or crocheted material - either for fun or to make a political point."
+    },
+    {
+        "idioms": "Yellow belly",
+        "meaning": "A coward."
+    },
+    {
+        "idioms": "You are what you eat",
+        "meaning": "What you eat affects you health."
+    },
+    {
+        "idioms": "You can lead a horse to water",
+        "meaning": "You can encourage someone to to do something but, in the end, what they do is their own choice."
+    },
+    {
+        "idioms": "You can't judge a book by its cover",
+        "meaning": "Decisions can't be made solely on appearance."
+    },
+    {
+        "idioms": "You can't teach and old dog new tricks",
+        "meaning": "Once animals (and people) are set in their ways they struggle to assimilate new ideas."
+    },
+    {
+        "idioms": "You can't take it with you",
+        "meaning": "Suggestion that you should spend money and live life now as it will be no use to you after you die."
+    },
+    {
+        "idioms": "Your guess is as good as mine",
+        "meaning": "I have no idea."
+    },
+    {
+        "idioms": "Your name is mud",
+        "meaning": "You are discredited or in disgrace. The very mention of your name produces scorn."
+    },
+    {
+        "idioms": "Your number is up",
+        "meaning": "It is now your turn. For instance, if 1. You are about to die. or 2. You have won a lottery."
+    },
+    {
+        "idioms": "Zip your lip",
+        "meaning": "Say nothing; keep your mouth shut. Often shortened to 'zip it'."
+    }
+]
