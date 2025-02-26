@@ -1,6 +1,6 @@
 import json
 import os
-
+from dotenv import load_dotenv
 import faiss
 import numpy as np
 from sentence_transformers import SentenceTransformer
@@ -8,7 +8,7 @@ from sentence_transformers import SentenceTransformer
 JSON_FORMAT_DATA_PATH = "../data/json_format"
 N_LISTS = 100  # Number of Voronoi cells (for large datasets, increase this)
 
-
+load_dotenv()
 
 def get_sentences():
     sentence_list = []
@@ -45,9 +45,9 @@ def get_sentences():
 
 
 def retrieve_best_match(user_input, top_k=1):
-    stored_index = faiss.read_index("knowledge_base.faiss")
+    stored_index = faiss.read_index("./models/knowledge_base.faiss")
 
-    with open("sentence_mappings.txt", "r", encoding="utf-8") as f:
+    with open("./models/sentence_mappings.txt", "r", encoding="utf-8") as f:
         stored_sentences = f.readlines()
 
     myModel = SentenceTransformer("all-MiniLM-L6-v2")
@@ -63,7 +63,50 @@ def retrieve_best_match(user_input, top_k=1):
 
 
 def correct_grammar(input_text):
-    return input_text
+    import requests
+
+    API_URL = "https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.3"
+    HEADERS = {"Authorization": f"Bearer {os.getenv("LMM_API_KEY", " ")}"}
+
+    prompt = generate_prompt(input_text)
+
+    payload = {
+        "inputs": prompt,
+        "parameters": {
+            "return_full_text": False,
+            "temperature": 0.85
+        }
+    }
+
+    response = requests.post(API_URL, headers=HEADERS, json=payload)
+    return response.json()[0].get("generated_text", input_text)
+
+def generate_prompt(input_text):
+    retrieved_data = "\n".join(retrieve_best_match(input_text, 5))
+    prompt = f"""
+            [System Instruction Begin]
+            You are an AI assistant specializing in **correcting grammar, fluency, and slang-to-formal translations**.
+
+            ### Task:
+            1. **Identify the issue in the given input** (grammar mistake, slang, abbreviation, sentence structure, etc.).
+            2. **Correct the sentence in formal English** while preserving the original meaning.
+            3. **Use the reference data below only if relevant**—it is for guidance, not a strict rule.
+            4. **If the reference data is not useful, ignore it and provide your own correction.**
+
+            ### Input Sentence:
+            "{input_text}"
+
+            ### Reference Data (Optional):
+            "{retrieved_data}"
+
+            ### Expected Response Format:
+            - **Corrected Sentence:** [Your correction here]
+            - **Explanation:** [Brief reason for the correction]
+            - **Correction Type:** (Grammar, Slang, Abbreviation, etc.)
+
+            [System Instruction End]
+        """
+    return prompt
 
 
 
